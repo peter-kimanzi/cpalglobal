@@ -1,4 +1,4 @@
 # cpalglobal
 minimal website design
 
-This is a html css website that acts as a source of info to careerpal pal global which is the parent site
+This is a  website that acts as a source of info to careerpal pal global which is the parent site
