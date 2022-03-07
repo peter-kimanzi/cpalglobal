@@ -10,3 +10,5 @@ CSS
 JQUERY
 
 ## Site can be viewed here
+
+https://peter-kimanzi.github.io/cpalglobal/
