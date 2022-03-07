@@ -8,3 +8,5 @@ This is a  website that acts as a source of info to careerpal pal global which i
 Html 
 CSS
 JQUERY
+
+## Site can be viewed here
